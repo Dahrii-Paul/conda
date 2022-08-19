@@ -6,4 +6,6 @@ conda search
 # Installed Packages
 conda list
 
+# Anaconda
+anaconda-navigator
 ```
